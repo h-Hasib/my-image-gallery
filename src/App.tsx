@@ -6,5 +6,4 @@ function App() {
   console.log(a);
   return <div>Hello</div>;
 }
-
 export default App;

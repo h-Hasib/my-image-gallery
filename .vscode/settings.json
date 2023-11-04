@@ -2,7 +2,6 @@
   "editor.codeActionsOnSave": {
     "source.fixAll": true,
     "source.organizeImports": false,
-    "source.sortMembers": true,
-    "endOfLine": "always"
+    "source.sortMembers": true
   }
 }
