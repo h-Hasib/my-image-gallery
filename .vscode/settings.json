@@ -3,5 +3,6 @@
     "source.fixAll": true,
     "source.organizeImports": false,
     "source.sortMembers": true
-  }
+  },
+  "typescript.tsdk": "node_modules\\typescript\\lib"
 }
